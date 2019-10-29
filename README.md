@@ -1,4 +1,4 @@
-#Loan Calculator JS Course
+# Loan Calculator JS Course
 
 it's a training project through JS Course
 
